@@ -1,4 +1,4 @@
 [{<<"aspike_protocol">>,
   {git,"git@github.com:vsavkov/aspike-protocol.git",
-       {ref,"ece0bdd941e8dbce1d99c0c6c8b39ed5c32ecc5c"}},
+       {ref,"b73c0a6189e4f25b03f1a82a02945573122f3561"}},
   0}].
